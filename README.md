@@ -12,6 +12,8 @@ CatPhotoApp is a simple webpage built with HTML to practice fundamental web deve
 - **HTML5**  
 
 ## 📷 Preview  
-Check out the project live: [CatPhotoApp](#) *(Replace with the actual link if deployed)*  
+Check out the project:
+![Photo 1](./CatAppPhotoOne.png)  
+![Photo 2](./CatAppPhotoTwo.png)
 
 👩‍💻 Developed with ❤️ by [Isabela Class](https://github.com/isabelaclass)
